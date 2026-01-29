@@ -27,6 +27,8 @@ Slides, exercises and code related to each session can be found in the [sessions
 
 ---
 
+New added info.
+
 ### **Hawkes Software Tooling** (coming soon!)
 We will be creating a space to list medical imaging and software tools commonly used across the Institute with a traffic light system to highlight our experience using them! Please do get in touch if you have any that you would like to share.
 
