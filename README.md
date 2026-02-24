@@ -7,7 +7,7 @@ This repository contains resources and materials for the Reproducible Analytical
 Links for additional reading material and resources can be found on the [useful_links](resources/useful_links.md) page.
 
 ### **Overview**
-The series will include 10 hybrid workshops over the 2025-26 academic year.
+The series will include 10 hybrid workshops over the 2025-26 academic year. The current schedule is:
 
 | Session | Month | Topic | Summary | Slides |
 | :--- | :--- | :- | :- | :--- |
@@ -16,12 +16,12 @@ The series will include 10 hybrid workshops over the 2025-26 academic year.
 | * | * | Christmas break | * | *
 | 3 ✅ | Jan | GitHub | How to use GitHub to manage repositories |tbc* |
 | 4 ✅ | Feb | Packaging | Key elements of Python Package and how to share them | tbc* |
-| 5 | Mar | | |
-| 6 | Apr | | |
-| 7 | May | | |
-| 8 | Jun | | |
-| 9 | Jul | | |
-| 10 | Aug | | |
+| 5 | Mar | Containers | |
+| 6 | Apr | Machine learning workflows | |
+| 7 | May | Testing and reproducibility | |
+| 8 | Jun | Medical imaging pipelines | |
+| 9 | Jul | Data management | |
+| 10 | Aug | TBC | |
 
 Slides, exercises and code related to each session can be found in the [sessions](sessions/) folder. Video recordings of each session will be made available soon, if needed please contact [Lawrence](mailto:lawrence.binding@ucl.ac.uk) or [Sophie](mailto:sophie.a.martin@ucl.ac.uk).
 
