@@ -2,14 +2,43 @@
 version: 1
 project:
   id: 91146a97-38b6-464e-8139-dce86e00d007
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
+  title: RAP @ Hawkes 
+  description: Site for the RAP @ Hawkes Workshop Series, with materials from the workshops and links to related resources.
+  keywords:
+    - Reproducibility
+    - Open Science
+    - Medical Imaging
   github: https://github.com/UCL-Hawkes-Institute/rap_hawkes
-  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  exclude:
+    - venv
+
+ # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: pages/index.md
+      title: Home
+    - title: Workshops
+      children:
+        - file: pages/workshops/1_python/index.md
+          title: '1: How to start your Python Project'
+        - file: pages/workshops/2_cluster/index.md
+          title: '2: HPC Computing'
+        - file: pages/workshops/3_github/index.md
+          title: '3: Managing with Git'
+    - file: pages/tool_guide.md
+      title: Community Tool Guide
+    - title: Resources
+      children:
+        - file: pages/resources/useful_links.md
+          title: Learning & Development
+        - file: pages/resources/vscode_extensions.md
+          title: VS Code Extensions
+
+
 site:
   template: book-theme
-  # options:
+  options:
   #   favicon: favicon.ico
-  #   logo: site_logo.png
+    logo: files/readme_logo.png
+    style: styles.css
+  parts:
+    footer: footer.md
