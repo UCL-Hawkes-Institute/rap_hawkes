@@ -21,7 +21,7 @@ The series will include 10 hybrid workshops spread over the 2025-26 academic yea
 | 9 | Jul | Data management | | |
 | 10 | Aug | TBC | | |
 
-Slides, materials recordings for each session can be found under the [workshops](workshop/) tab. If you have any problems accessing these please contact [Lawrence](mailto:lawrence.binding@ucl.ac.uk) or [Sophie](mailto:sophie.a.martin@ucl.ac.uk).
+Slides, materials recordings for each session can be found under the [workshops](workshops/) tab. If you have any problems accessing these please contact [Lawrence](mailto:lawrence.binding@ucl.ac.uk) or [Sophie](mailto:sophie.a.martin@ucl.ac.uk).
 
 ---
 

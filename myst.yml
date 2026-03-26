@@ -17,21 +17,15 @@ project:
     - file: README.md
       title: Home
     - title: Workshops
+      file: workshops/index.md
       children:
-        - file: workshops/1_python/index.md
-          title: '1: How to start your Python Project'
-        - file: workshops/2_cluster/index.md
-          title: '2: HPC Computing'
-        - file: workshops/3_github/index.md
-          title: '3: Managing with Git'
+        - pattern: "workshops/*/index.md"
+        - sort: "descending"
     - file: tool_guide.md
       title: Community Tool Guide
     - title: Resources
       children:
-        - file: resources/useful_links.md
-          title: Learning & Development
-        - file: resources/vscode_extensions.md
-          title: VS Code Extensions
+        - pattern: "resources/*"
 
 
 site:
