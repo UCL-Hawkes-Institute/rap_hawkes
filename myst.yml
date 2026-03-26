@@ -20,7 +20,7 @@ project:
       file: workshops/index.md
       children:
         - pattern: "workshops/*/index.md"
-          sort: "descending"
+          sort: "ascending"
     - title: Community Tool Guide
       file: tool_guide/index.md
     - title: Resources
