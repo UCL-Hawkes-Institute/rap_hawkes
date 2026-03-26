@@ -1,6 +1,6 @@
 # RAP @ Hawkes
 
-<!-- <img src="files/readme_logo.png" alt="text that reads 'RAP @' next to the UCL Hawkes logo" width="25%" align="right" /> -->
+<!-- <img src="assets/readme_logo.png" alt="text that reads 'RAP @' next to the UCL Hawkes logo" width="25%" align="right" /> -->
 
 This site contains resources and materials for the Reproducible Analytical Pipelines (RAP) workshop series at the UCL Hawkes Institute. This series aims to promote good software engineering practices to enable collaboration between researchers across the Institute.
 

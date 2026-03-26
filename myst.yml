@@ -20,9 +20,9 @@ project:
       file: workshops/index.md
       children:
         - pattern: "workshops/*/index.md"
-        - sort: "descending"
-    - file: tool_guide.md
-      title: Community Tool Guide
+          sort: "descending"
+    - title: Community Tool Guide
+      file: tool_guide/index.md
     - title: Resources
       children:
         - pattern: "resources/*"
@@ -32,7 +32,7 @@ site:
   template: book-theme
   options:
   #   favicon: favicon.ico
-    logo: files/readme_logo.png
+    logo: assets/readme_logo.png
     style: styles.css
     folders: true # https://mystmd.org/guide/website-templates#site-url-folders
   parts:
