@@ -40,5 +40,6 @@ site:
   #   favicon: favicon.ico
     logo: files/readme_logo.png
     style: styles.css
+    folders: true # https://mystmd.org/guide/website-templates#site-url-folders
   parts:
     footer: footer.md
