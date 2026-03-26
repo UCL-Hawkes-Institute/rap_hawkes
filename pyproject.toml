@@ -1,7 +1,7 @@
 [project]
 name = "rap-hawkes"
 version = "0.1.0"
-description = "Add your description here"
+description = "Website for the RAP @ Hawkes Workshop Series"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
