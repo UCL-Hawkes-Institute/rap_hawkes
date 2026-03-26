@@ -1,9 +1,9 @@
-# Useful VS Code Extensions for Medical Imaging Applications
+# VS Code Extensions 
 
 Here we have compiled a list of Visual Studio Code extensions that can be useful when working with medical image data and related projects.
 
 ---
-## Viewing images
+## 👀 Viewing images
 
 These extensions allow you to directly view and interact with medical imaging files inside VS Code, eliminating the need to switch to an external viewer for quick checks.
 
@@ -13,7 +13,7 @@ These extensions allow you to directly view and interact with medical imaging fi
 | **MedView** | Provides essential tools for image visualization, including brightness/contrast adjustment and basic transformations for single-slice DICOM and volumetric NIfTI. | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=FrancescaFati.MedView) |
 | **Hex Editor** | Useful for debugging and inspecting the raw binary structure of file headers (like DICOM tags). | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor) |
 
-## Exploring data
+## 🗺️ Exploring data
 
 
 | Extension | Purpose | Link |
