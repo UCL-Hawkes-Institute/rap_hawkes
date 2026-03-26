@@ -1,3 +1,6 @@
+# Learning & Development
+
+Here we have compiled a list to external resources that can be used for additional learning, such as templates, e-tutorials and guides.
 
 | Link | Type | Summary | 
 | :--- | :--- | :--- |

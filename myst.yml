@@ -1,0 +1,40 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 91146a97-38b6-464e-8139-dce86e00d007
+  title: RAP @ Hawkes 
+  description: Site for the RAP @ Hawkes Workshop Series, with materials from the workshops and links to related resources.
+  keywords:
+    - Reproducibility
+    - Open Science
+    - Medical Imaging
+  github: https://github.com/UCL-Hawkes-Institute/rap_hawkes
+  exclude:
+    - venv
+
+ # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: README.md
+      title: Home
+    - title: Workshops
+      file: workshops/index.md
+      children:
+        - pattern: "workshops/*/index.md"
+          sort: "ascending"
+    - title: Community Tool Guide
+      file: tool_guide/index.md
+    - title: Resources
+      children:
+        - pattern: "resources/*"
+
+
+site:
+  template: book-theme
+  options:
+  #   favicon: favicon.ico
+    logo: assets/readme_logo.png
+    style: assets/styles.css
+    folders: true # https://mystmd.org/guide/website-templates#site-url-folders
+  parts:
+    footer: |
+      © 2026 RAP @ Hawkes Team · Built with Jupyter Book
