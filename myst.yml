@@ -14,23 +14,23 @@ project:
 
  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
-    - file: pages/index.md
+    - file: index.md
       title: Home
     - title: Workshops
       children:
-        - file: pages/workshops/1_python/index.md
+        - file: workshops/1_python/index.md
           title: '1: How to start your Python Project'
-        - file: pages/workshops/2_cluster/index.md
+        - file: workshops/2_cluster/index.md
           title: '2: HPC Computing'
-        - file: pages/workshops/3_github/index.md
+        - file: workshops/3_github/index.md
           title: '3: Managing with Git'
-    - file: pages/tool_guide.md
+    - file: tool_guide.md
       title: Community Tool Guide
     - title: Resources
       children:
-        - file: pages/resources/useful_links.md
+        - file: resources/useful_links.md
           title: Learning & Development
-        - file: pages/resources/vscode_extensions.md
+        - file: resources/vscode_extensions.md
           title: VS Code Extensions
 
 
