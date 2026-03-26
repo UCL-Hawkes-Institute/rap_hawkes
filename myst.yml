@@ -36,4 +36,5 @@ site:
     style: assets/styles.css
     folders: true # https://mystmd.org/guide/website-templates#site-url-folders
   parts:
-    footer: parts/footer.md
+    footer: |
+      © 2026 RAP @ Hawkes Team · Built with Jupyter Book
