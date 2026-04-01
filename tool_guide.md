@@ -1,3 +1,3 @@
 # Community Tooling Guide
 
-Coming soon! ffffff
+Coming soon!

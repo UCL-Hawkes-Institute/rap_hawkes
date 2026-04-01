@@ -25,7 +25,7 @@ project:
         - pattern: "workshops/*/index.md"
           sort: "ascending"
     - title: Tooling Guide
-      file: tool_guide/index.md
+      file: tool_guide.md
     - title: Resources
       children:
         - pattern: "resources/*.md"
@@ -36,7 +36,7 @@ site:
     - title: Workshops
       url: /workshops/index
     - title: Tooling Guide
-      url: /tool-guide/index
+      url: /tool-guide
     - title: Resources
       children: 
       - title: Useful Links

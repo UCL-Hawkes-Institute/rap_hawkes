@@ -27,7 +27,7 @@ Slides, materials recordings for each session are provided in the [workshops](wo
 ---
 
 ## Community Tooling Guide (coming soon!)
-We will also be creating a RAP @ Hawkes community tooling [guide](tool_guide/index) to highlight our experience using common medical imaging and software tools with a traffic light system! Please do get in touch if you have any that you would like to share.
+We will also be creating a RAP @ Hawkes community tooling [guide](tool_guide.md) to highlight our experience using common medical imaging and software tools with a traffic light system! Please do get in touch if you have any that you would like to share.
 
 ---
 
