@@ -14,7 +14,7 @@ Our first series will include 10 hybrid workshops spread over the 2025-26 academ
 | * | * | *Christmas break* | * | * | * |
 | 3 ✅ | Jan | GitHub | How to use GitHub to manage repositories | Ruaridh | [Link](workshops/3_github/index) |
 | 4 ✅ | Feb | Packaging | Key elements of Python Package and how to share them | Paddy | [Link](workshops/4_packaging/index) |
-| 5 ✅ | Mar | Containers | How to run, build and pull docker images/containers | Haroon | Coming soon |
+| 5 ✅ | Mar | Docker | How to run, build and pull docker images/containers | Haroon | Coming soon |
 | * | * | *Easter break* | * | * | * |
 | 6 🔜| Apr | Machine learning workflows | | |
 | 7 | May | Testing and reproducibility | | |
