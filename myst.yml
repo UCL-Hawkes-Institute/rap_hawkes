@@ -11,19 +11,24 @@ project:
   github: https://github.com/UCL-Hawkes-Institute/rap_hawkes
   exclude:
     - venv
+  thumbnail: files/readme_logo.png
 
  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: pages/index.md
       title: Home
     - title: Workshops
+      - file: pages/workshops/index.md
       children:
         - file: pages/workshops/1_python/index.md
-          title: '1: How to start your Python Project'
+          title: '1. How to start your Python Project'
+          children:
+            - file: pages/workshops/1_python/code_examples.md
+              title: 'Code Examples'
         - file: pages/workshops/2_cluster/index.md
-          title: '2: HPC Computing'
+          title: '2. HPC Computing'
         - file: pages/workshops/3_github/index.md
-          title: '3: Managing with Git'
+          title: '3. Managing with Git'
     - file: pages/tool_guide.md
       title: Community Tool Guide
     - title: Resources
