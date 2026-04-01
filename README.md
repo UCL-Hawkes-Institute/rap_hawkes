@@ -4,8 +4,8 @@
 
 This site contains resources and materials for the Reproducible Analytical Pipelines (RAP) workshop series at the UCL Hawkes Institute. This series aims to promote good software engineering practices to enable collaboration between researchers across the Institute.
 
-### **Overview**
-The series will include 10 hybrid workshops spread over the 2025-26 academic year. The current schedule is:
+## Schedule (2025/26)
+Our first series will include 10 hybrid workshops spread over the 2025-26 academic year. The current schedule is:
 
 | Workshop | Month | Topic | Summary | Lead | Recording |
 | :- | :--- | :- | :-- | :--- | :-- |
@@ -13,27 +13,28 @@ The series will include 10 hybrid workshops spread over the 2025-26 academic yea
 | 2 ✅ | Nov | Cluster computing | How to efficiently utilise HPC resources + ask the experts! | Ed, Angie | [Link](workshops/2_cluster/index) |
 | * | * | *Christmas break* | * | * | * |
 | 3 ✅ | Jan | GitHub | How to use GitHub to manage repositories | Ruaridh | [Link](workshops/3_github/index) |
-| 4 🔜 | Feb | Packaging | Key elements of Python Package and how to share them | Paddy | *TBC* |
-| 5 | Mar | Containers | Docker, Singularity | |
-| 6 | Apr | Machine learning workflows | | |
+| 4 ✅ | Feb | Packaging | Key elements of Python Package and how to share them | Paddy | [Link](workshops/4_packaging/index) |
+| 5 ✅ | Mar | Containers | How to run, build and pull docker images/containers | Haroon | Coming soon |
+| * | * | *Easter break* | * | * | * |
+| 6 🔜| Apr | Machine learning workflows | | |
 | 7 | May | Testing and reproducibility | | |
 | 8 | Jun | Medical imaging pipelines | | |
 | 9 | Jul | Data management | | |
 | 10 | Aug | TBC | | |
 
-Slides, materials recordings for each session can be found under [workshops](workshops/). If you have any problems accessing these please contact [Lawrence](mailto:lawrence.binding@ucl.ac.uk) or [Sophie](mailto:sophie.a.martin@ucl.ac.uk).
+Slides, materials recordings for each session are provided in the [workshops](workshops/index) pages. If you have any problems accessing these please contact [Lawrence](mailto:lawrence.binding@ucl.ac.uk) or [Sophie](mailto:sophie.a.martin@ucl.ac.uk).
 
 ---
 
-### **Hawkes Community Tooling Guide** (coming soon!)
-We will be creating a community [guide](tool_guide) to list medical imaging and software tools commonly used across the Institute with a traffic light system to highlight our experience using them! Please do get in touch if you have any that you would like to share.
+## Community Tooling Guide (coming soon!)
+We will also be creating a RAP @ Hawkes community tooling [guide](tool_guide/index) to highlight our experience using common medical imaging and software tools with a traffic light system! Please do get in touch if you have any that you would like to share.
 
 ---
 
-### **External Resources**
+## Resources
 
-Other resources mentioned throughout the series will be added to the [resources](resources/useful_links.md) page. We have also compiled a specific list for [VS code extensions](resources/vscode_extensions.md) used frequently within the medical imaging community.
+Helpful external resources mentioned throughout the series will be added to the [resources](resources/useful_links.md) page. We have also compiled a specific list for [VS code extensions](resources/vscode_extensions.md) used frequently within the medical imaging community.
 
 ---
 
-If you have any suggestions or ideas on how we can improve this site, please let us know!
+If you have any suggestions or ideas on how we can improve this site, let us know!
