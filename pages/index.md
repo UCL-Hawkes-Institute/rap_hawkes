@@ -13,8 +13,8 @@ The series will include 10 hybrid workshops spread over the 2025-26 academic yea
 | 2 ✅ | Nov | Cluster computing | How to efficiently utilise HPC resources + ask the experts! | Ed, Angie | [Link](workshops/2_cluster/index) |
 | * | * | *Christmas break* | * | * | * |
 | 3 ✅ | Jan | GitHub | How to use GitHub to manage repositories | Ruaridh | [Link](workshops/3_github/index) |
-| 4 🔜 | Feb | Packaging | Key elements of Python Package and how to share them | Paddy | *TBC* |
-| 5 | Mar | Containers | Docker, Singularity | |
+| 4 ✅ | Feb | Packaging | Key elements of Python Package and how to share them | Paddy | [Link](workshops/3_github/index) |
+| 5 🔜 | Mar | Containers | Docker, Singularity | Haroon | TBC |
 | 6 | Apr | Machine learning workflows | | |
 | 7 | May | Testing and reproducibility | | |
 | 8 | Jun | Medical imaging pipelines | | |
