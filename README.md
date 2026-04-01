@@ -30,8 +30,10 @@ We will be creating a community [guide](tool_guide) to list medical imaging and 
 
 ---
 
-### **External Resources** ###
+### **External Resources**
+
 Other resources mentioned throughout the series will be added to the [resources](resources/useful_links.md) page. We have also compiled a specific list for [VS code extensions](resources/vscode_extensions.md) used frequently within the medical imaging community.
+
 ---
 
 If you have any suggestions or ideas on how we can improve this site, please let us know!
