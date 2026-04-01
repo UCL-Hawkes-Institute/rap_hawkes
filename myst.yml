@@ -9,6 +9,8 @@ project:
     - Open Science
     - Medical Imaging
   github: https://github.com/UCL-Hawkes-Institute/rap_hawkes
+  edit_url: null
+  banner: assets/readme_logo.png
   exclude:
     - venv
   thumbnail: assets/readme_logo.png
@@ -22,20 +24,34 @@ project:
       children:
         - pattern: "workshops/*/index.md"
           sort: "ascending"
-    - title: Community Tool Guide
+    - title: Tooling Guide
       file: tool_guide/index.md
     - title: Resources
       children:
-        - pattern: "resources/*"
+        - pattern: "resources/*.md"
 
 
 site:
+  nav:
+    - title: Workshops
+      url: /workshops/index
+    - title: Tooling Guide
+      url: /tool-guide/index
+    - title: Resources
+      children: 
+      - title: Useful Links
+        url: /resources/useful-links
+      - title: VSCode Extensions
+        url: /resources/vscode-extensions 
   template: book-theme
   options:
   #   favicon: favicon.ico
     logo: assets/readme_logo.png
     style: assets/styles.css
     folders: true # https://mystmd.org/guide/website-templates#site-url-folders
+    # hide_outline: true
+    # hide_toc: true
+
   parts:
     footer: |
       © 2026 RAP @ Hawkes Team · Built with Jupyter Book
