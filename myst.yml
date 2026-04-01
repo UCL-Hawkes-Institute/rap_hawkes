@@ -11,7 +11,7 @@ project:
   github: https://github.com/UCL-Hawkes-Institute/rap_hawkes
   exclude:
     - venv
-  thumbnail: files/readme_logo.png
+  thumbnail: assets/readme_logo.png
 
  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
