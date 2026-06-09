@@ -5,7 +5,7 @@
 This site contains resources and materials for the Reproducible Analytical Pipelines (RAP) workshop series at the UCL Hawkes Institute. This series aims to promote good software engineering practices to enable collaboration between researchers across the Institute.
 
 ## Schedule (2025/26)
-Our first series will include 10 hybrid workshops spread over the 2025-26 academic year. The current schedule is:
+Our first series will include 8 hybrid workshops spread over the 2025-26 academic year. The current schedule is:
 
 | Workshop | Month | Topic | Summary | Lead | Recording |
 | :- | :--- | :- | :-- | :--- | :-- |
@@ -14,13 +14,11 @@ Our first series will include 10 hybrid workshops spread over the 2025-26 academ
 | * | * | *Christmas break* | * | * | * |
 | 3 ✅ | Jan | GitHub | How to use GitHub to manage repositories | Ruaridh | [Link](workshops/3_github/index) |
 | 4 ✅ | Feb | Packaging | Key elements of Python Package and how to share them | Paddy | [Link](workshops/4_packaging/index) |
-| 5 ✅ | Mar | Docker | How to run, build and pull docker images/containers | Haroon | Coming soon |
+| 5 ✅ | Mar | Docker | How to run, build and pull docker images/containers | Haroon | [Link](workshops/5_docker/index.md) |
 | * | * | *Easter break* | * | * | * |
-| 6 🔜| Apr | Machine learning workflows | | |
-| 7 | May | Testing and reproducibility | | |
-| 8 | Jun | Medical imaging pipelines | | |
-| 9 | Jul | Data management | | |
-| 10 | Aug | TBC | | |
+| 6 🔜 | May | Elements of the Software Lifecycle | Agile, Testing and CI/CD | Haroon | Coming soon 
+| 7 | Jun | Medical imaging data management/pipelines | | |
+| 8 | Jul | TBC & Wrap-up | | |
 
 Slides, materials recordings for each session are provided in the [workshops](workshops/index) pages. If you have any problems accessing these please contact [Lawrence](mailto:lawrence.binding@ucl.ac.uk) or [Sophie](mailto:sophie.a.martin@ucl.ac.uk).
 
