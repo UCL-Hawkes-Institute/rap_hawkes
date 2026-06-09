@@ -208,3 +208,5 @@ __marimo__/
 
 # MyST build outputs
 _build
+
+.DS_Store
