@@ -34,6 +34,3 @@ For full details and instructions on using the UCL CS Cluster, visit [the HPC we
 
 ```{literalinclude} code_examples/run_argsparse_example.sh
 ```
-
-## Slides
-To be updated.

@@ -12,6 +12,3 @@ If you are having trouble viewing it above, try using the [link](https://liveucl
 
 ```{note} You will need to be signed in with a UCL account to view our workshops recordings.
 ```
-
-## Slides
-To be updated.
