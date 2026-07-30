@@ -18,7 +18,7 @@ Our first series will include 8 hybrid workshops spread over the 2025-26 academi
 | * | * | *Easter break* | * | * | * |
 | 6 ✅ | May | Elements of the Software Lifecycle | Agile, Testing and CI/CD | Haroon | [Link](workshops/6_testing/index.md)
 | 7 ✅ | Jun | RAP in medical imaging research | BIDS-apps, DataLad and Wandb | Sophie & Lawrence | [Link](workshops/7_mir/index.md)
-| 8 ✅ | Jul | Summer wrap-up | Sophie, Haroon & Ruaridh | Not recroded |
+| 8 ✅ | Jul | Summer wrap-up | Feedback and future planning | Sophie, Haroon & Ruaridh | Not recorded 
 
 Slides, materials recordings for each session are provided in the [workshops](workshops/index) pages. If you have any problems accessing these please contact [Lawrence](mailto:lawrence.binding@ucl.ac.uk) or [Sophie](mailto:sophie.a.martin@ucl.ac.uk).
 
