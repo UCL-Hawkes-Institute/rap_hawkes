@@ -16,8 +16,9 @@ Our first series will include 8 hybrid workshops spread over the 2025-26 academi
 | 4 ✅ | Feb | Packaging | Key elements of Python Package and how to share them | Paddy | [Link](workshops/4_packaging/index) |
 | 5 ✅ | Mar | Docker | How to run, build and pull docker images/containers | Haroon | [Link](workshops/5_docker/index.md) |
 | * | * | *Easter break* | * | * | * |
-| 6 ✅ | May | Elements of the Software Lifecycle | Agile, Testing and CI/CD | Haroon | Coming soon
-| 7 🔜 | Jun/Jul | RAP in medical imaging research | Sophie & Lawrence | Coming soon |
+| 6 ✅ | May | Elements of the Software Lifecycle | Agile, Testing and CI/CD | Haroon | [Link](workshops/6_testing/index.md)
+| 7 ✅ | Jun | RAP in medical imaging research | Sophie & Lawrence | [Link](workshops/7_mir/index.md) |
+| 8 🔜 | Jul | Summer wrap-up | Sophie, Haroon & Ruaridh | Coming soon |
 
 Slides, materials recordings for each session are provided in the [workshops](workshops/index) pages. If you have any problems accessing these please contact [Lawrence](mailto:lawrence.binding@ucl.ac.uk) or [Sophie](mailto:sophie.a.martin@ucl.ac.uk).
 
