@@ -38,15 +38,6 @@ project:
 
 
 site:
-  nav:
-    - title: Workshops
-      url: /workshops/index
-    - title: Resources
-      children: 
-      - title: Useful Links
-        url: /resources/useful-links
-      - title: VSCode Extensions
-        url: /resources/vscode-extensions 
   template: book-theme
   options:
   #   favicon: favicon.ico
