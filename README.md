@@ -14,11 +14,6 @@ Slides, materials and recordings for each session are provided in the [workshops
 
 ---
 
-## Community Tooling Guide (coming soon!)
-We will also be creating a RAP @ Hawkes community tooling [guide](tool_guide.md) to highlight our experience using common medical imaging and software tools with a traffic light system! Please do get in touch if you have any that you would like to share.
-
----
-
 ## Resources
 
 Helpful external resources mentioned throughout the series will be added to the [resources](resources/useful_links.md) page. We have also compiled a specific list for [VS code extensions](resources/vscode_extensions.md) used frequently within the medical imaging community.
