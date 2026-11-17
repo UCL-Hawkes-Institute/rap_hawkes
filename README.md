@@ -4,23 +4,13 @@
 
 This site contains resources and materials for the Reproducible Analytical Pipelines (RAP) workshop series at the UCL Hawkes Institute. This series aims to promote good software engineering practices to enable collaboration between researchers across the Institute.
 
-## Schedule (2025/26)
-Our first series will include 8 hybrid workshops spread over the 2025-26 academic year. The current schedule is:
+## Schedule (2026/27)
+Our second series of workshops will run over the 2026-27 academic year. The schedule will be announced soon - keep an eye on the [2026/27 series](workshops/2026-2027/index.md) page for updates.
 
-| Workshop | Month | Topic | Summary | Lead | Recording |
-| :- | :--- | :- | :-- | :--- | :-- |
-| 1 ✅ | Oct | Introduction & Python best practices | Tips and tricks on managing Python projects. | Sophie, Lawrence | [Link](workshops/1_python/index) |
-| 2 ✅ | Nov | Cluster computing | How to efficiently utilise HPC resources + ask the experts! | Ed, Angie | [Link](workshops/2_cluster/index) |
-| * | * | *Christmas break* | * | * | * |
-| 3 ✅ | Jan | GitHub | How to use GitHub to manage repositories | Ruaridh | [Link](workshops/3_github/index) |
-| 4 ✅ | Feb | Packaging | Key elements of Python Package and how to share them | Paddy | [Link](workshops/4_packaging/index) |
-| 5 ✅ | Mar | Docker | How to run, build and pull docker images/containers | Haroon | [Link](workshops/5_docker/index.md) |
-| * | * | *Easter break* | * | * | * |
-| 6 ✅ | May | Elements of the Software Lifecycle | Agile, Testing and CI/CD | Haroon | [Link](workshops/6_testing/index.md)
-| 7 ✅ | Jun | RAP in medical imaging research | BIDS-apps, DataLad and Wandb | Sophie & Lawrence | [Link](workshops/7_mir/index.md)
-| 8 ✅ | Jul | Summer wrap-up | Feedback and future planning | Sophie, Haroon & Ruaridh | Not recorded 
+## Previous series
+- [2025/26 series](workshops/2025-2026/index.md): our first series of 8 hybrid workshops, covering Python best practices, cluster computing, GitHub, packaging, Docker, the software lifecycle and RAP in medical imaging research.
 
-Slides, materials recordings for each session are provided in the [workshops](workshops/index) pages. If you have any problems accessing these please contact [Lawrence](mailto:lawrence.binding@ucl.ac.uk) or [Sophie](mailto:sophie.a.martin@ucl.ac.uk).
+Slides, materials and recordings for each session are provided in the [workshops](workshops/index.md) pages, organised by academic year. If you have any problems accessing these please contact [Sophie](mailto:sophie.a.martin@ucl.ac.uk).
 
 ---
 

@@ -22,8 +22,16 @@ project:
     - title: Workshops
       file: workshops/index.md
       children:
-        - pattern: "workshops/*/index.md"
-          sort: "ascending"
+        - title: "2026/27"
+          file: workshops/2026-2027/index.md
+          children:
+            - pattern: "workshops/2026-2027/*/index.md"
+              sort: "ascending"
+        - title: "2025/26"
+          file: workshops/2025-2026/index.md
+          children:
+            - pattern: "workshops/2025-2026/*/index.md"
+              sort: "ascending"
     - title: Tooling Guide
       file: tool_guide.md
     - title: Resources
