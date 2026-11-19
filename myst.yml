@@ -22,27 +22,22 @@ project:
     - title: Workshops
       file: workshops/index.md
       children:
-        - pattern: "workshops/*/index.md"
-          sort: "ascending"
-    - title: Tooling Guide
-      file: tool_guide.md
+        - title: "2026/27"
+          file: workshops/2026-2027/index.md
+          children:
+            - pattern: "workshops/2026-2027/*/index.md"
+              sort: "ascending"
+        - title: "2025/26"
+          file: workshops/2025-2026/index.md
+          children:
+            - pattern: "workshops/2025-2026/*/index.md"
+              sort: "ascending"
     - title: Resources
       children:
         - pattern: "resources/*.md"
 
 
 site:
-  nav:
-    - title: Workshops
-      url: /workshops/index
-    - title: Tooling Guide
-      url: /tool-guide
-    - title: Resources
-      children: 
-      - title: Useful Links
-        url: /resources/useful-links
-      - title: VSCode Extensions
-        url: /resources/vscode-extensions 
   template: book-theme
   options:
   #   favicon: favicon.ico
