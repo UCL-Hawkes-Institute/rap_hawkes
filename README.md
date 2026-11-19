@@ -20,4 +20,4 @@ Helpful external resources mentioned throughout the series will be added to the 
 
 ---
 
-If you have any suggestions or ideas on how we can improve this site, let us know!
+If you have any suggestions or ideas on how we can improve this site, let us know! If you would like to contribute, see our [contributing guide](https://github.com/UCL-Hawkes-Institute/rap_hawkes/blob/main/CONTRIBUTING.md).
